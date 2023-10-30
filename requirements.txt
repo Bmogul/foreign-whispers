@@ -1,0 +1,4 @@
+pytube
+numpy
+pandas
+tensorflow
