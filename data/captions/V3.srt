@@ -1,0 +1,1139 @@
+1
+00:00:01,680 --> 00:00:03,199
+whether you think artificial
+
+2
+00:00:03,199 --> 00:00:05,879
+intelligence will save the world or end
+
+3
+00:00:05,879 --> 00:00:09,440
+it you have Jeffrey Hinton to thank
+
+4
+00:00:09,440 --> 00:00:12,200
+Hinton has been called The Godfather of
+
+5
+00:00:12,200 --> 00:00:15,640
+AI a British computer scientist whose
+
+6
+00:00:15,640 --> 00:00:18,880
+controversial ideas help make advanced
+
+7
+00:00:18,880 --> 00:00:22,119
+artificial intelligence possible and so
+
+8
+00:00:22,119 --> 00:00:25,800
+change the world Hinton believes that AI
+
+9
+00:00:25,800 --> 00:00:28,840
+will do enormous good but tonight he has
+
+10
+00:00:28,840 --> 00:00:32,320
+a warning he says that AI systems may be
+
+11
+00:00:32,320 --> 00:00:35,239
+more intelligent than we know and
+
+12
+00:00:35,239 --> 00:00:37,399
+there's a chance the machines could take
+
+13
+00:00:37,399 --> 00:00:41,680
+over which made us ask the
+
+14
+00:00:41,680 --> 00:00:47,160
+question the story will continue in a
+
+15
+00:00:47,160 --> 00:00:49,920
+moment does Humanity know what it's
+
+16
+00:00:49,920 --> 00:00:51,440
+doing
+
+17
+00:00:51,440 --> 00:00:53,559
+no
+
+18
+00:00:53,559 --> 00:00:58,719
+um I think we're moving into a period
+
+19
+00:00:58,719 --> 00:01:01,199
+when for the first first time ever we
+
+20
+00:01:01,199 --> 00:01:04,040
+may have things more intelligent than us
+
+21
+00:01:04,040 --> 00:01:06,600
+you believe they can understand yes you
+
+22
+00:01:06,600 --> 00:01:09,920
+believe they are intelligent yes you
+
+23
+00:01:09,920 --> 00:01:12,960
+believe these systems have experiences
+
+24
+00:01:12,960 --> 00:01:15,720
+of their own and can make decisions
+
+25
+00:01:15,720 --> 00:01:18,200
+based on those experiences in the same
+
+26
+00:01:18,200 --> 00:01:20,840
+sense as people do yes are they
+
+27
+00:01:20,840 --> 00:01:22,840
+conscious I think they probably don't
+
+28
+00:01:22,840 --> 00:01:24,960
+have much self-awareness at present so
+
+29
+00:01:24,960 --> 00:01:26,119
+in that sense I don't think they're
+
+30
+00:01:26,119 --> 00:01:28,960
+conscious will they have self-awareness
+
+31
+00:01:28,960 --> 00:01:31,439
+consciousness I oh yes I think they will
+
+32
+00:01:31,439 --> 00:01:34,200
+in time and so human beings will be the
+
+33
+00:01:34,200 --> 00:01:37,640
+second most intelligent beings on the
+
+34
+00:01:37,640 --> 00:01:42,320
+planet yeah Jeffrey Hinton told us the
+
+35
+00:01:42,320 --> 00:01:45,200
+artificial intelligence he set in motion
+
+36
+00:01:45,200 --> 00:01:48,960
+was an accident born of a failure in the
+
+37
+00:01:48,960 --> 00:01:52,159
+1970s at the University of Edinburgh he
+
+38
+00:01:52,159 --> 00:01:55,479
+dreamed of simulating a neural network
+
+39
+00:01:55,479 --> 00:01:58,439
+on a computer simply as a tool for what
+
+40
+00:01:58,439 --> 00:02:00,479
+he was really studying
+
+41
+00:02:00,479 --> 00:02:04,000
+the human brain but back then almost no
+
+42
+00:02:04,000 --> 00:02:05,920
+one thought software could mimic the
+
+43
+00:02:05,920 --> 00:02:09,360
+brain his PhD advisor told him to drop
+
+44
+00:02:09,360 --> 00:02:12,800
+it before it ruined his career Hinton
+
+45
+00:02:12,800 --> 00:02:15,200
+says he failed to figure out the human
+
+46
+00:02:15,200 --> 00:02:18,360
+mind but the long Pursuit led to an
+
+47
+00:02:18,360 --> 00:02:19,680
+artificial
+
+48
+00:02:19,680 --> 00:02:22,400
+version it took much much longer than I
+
+49
+00:02:22,400 --> 00:02:24,200
+expected it took like 50 years before it
+
+50
+00:02:24,200 --> 00:02:26,640
+worked well but in the end it did work
+
+51
+00:02:26,640 --> 00:02:31,319
+well at what point did you realize that
+
+52
+00:02:31,319 --> 00:02:34,680
+you were right about neural networks and
+
+53
+00:02:34,680 --> 00:02:37,280
+most everyone else was wrong I always
+
+54
+00:02:37,280 --> 00:02:38,599
+thought I was
+
+55
+00:02:38,599 --> 00:02:42,959
+right in 2019 Hinton and collaborators
+
+56
+00:02:42,959 --> 00:02:47,040
+Yan laon on the left and yosua Beno won
+
+57
+00:02:47,040 --> 00:02:50,879
+the touring award the Nobel Prize of
+
+58
+00:02:50,879 --> 00:02:53,560
+computing to understand how their work
+
+59
+00:02:53,560 --> 00:02:55,959
+on artificial neural networks helped
+
+60
+00:02:55,959 --> 00:02:59,440
+machines learn to learn let us take you
+
+61
+00:02:59,440 --> 00:03:00,720
+to a a
+
+62
+00:03:00,720 --> 00:03:05,799
+game look at that oh my goodness this is
+
+63
+00:03:05,799 --> 00:03:09,080
+Google's AI lab in London which we first
+
+64
+00:03:09,080 --> 00:03:11,959
+showed you this past April Jeffrey
+
+65
+00:03:11,959 --> 00:03:14,519
+Hinton wasn't involved in this soccer
+
+66
+00:03:14,519 --> 00:03:17,200
+project but these robots are a great
+
+67
+00:03:17,200 --> 00:03:20,799
+example of machine learning the thing to
+
+68
+00:03:20,799 --> 00:03:23,840
+understand is that the robots were not
+
+69
+00:03:23,840 --> 00:03:26,879
+programmed to play soccer they were told
+
+70
+00:03:26,879 --> 00:03:30,480
+to score they had to learn how on their
+
+71
+00:03:30,480 --> 00:03:32,439
+own oh
+
+72
+00:03:32,439 --> 00:03:36,159
+go in general here's how AI does it
+
+73
+00:03:36,159 --> 00:03:38,560
+Henton and his collaborators created
+
+74
+00:03:38,560 --> 00:03:41,760
+software in layers with each layer
+
+75
+00:03:41,760 --> 00:03:43,720
+handling part of the problem that's the
+
+76
+00:03:43,720 --> 00:03:46,360
+so-called neural network but this is the
+
+77
+00:03:46,360 --> 00:03:50,680
+key when for example the robot scores a
+
+78
+00:03:50,680 --> 00:03:53,400
+message is sent back down through all of
+
+79
+00:03:53,400 --> 00:03:56,720
+the layers that says that pathway was
+
+80
+00:03:56,720 --> 00:04:00,319
+right likewise when an answer is wrong
+
+81
+00:04:00,319 --> 00:04:02,200
+that message goes down through the
+
+82
+00:04:02,200 --> 00:04:05,280
+network so correct connections get
+
+83
+00:04:05,280 --> 00:04:08,120
+stronger wrong connections get weaker
+
+84
+00:04:08,120 --> 00:04:11,239
+and by trial and error the machine
+
+85
+00:04:11,239 --> 00:04:14,000
+teaches itself you think these AI
+
+86
+00:04:14,000 --> 00:04:17,079
+systems are better at learning than the
+
+87
+00:04:17,079 --> 00:04:20,600
+human mind I think they may be yes and
+
+88
+00:04:20,600 --> 00:04:23,320
+at present they're quite a lot smaller
+
+89
+00:04:23,320 --> 00:04:26,000
+so even the biggest chatbots only have
+
+90
+00:04:26,000 --> 00:04:28,800
+about a trillion Connections in them the
+
+91
+00:04:28,800 --> 00:04:31,280
+human brain has about 100 trillion and
+
+92
+00:04:31,280 --> 00:04:33,880
+yet in the trillion Connections in a
+
+93
+00:04:33,880 --> 00:04:37,360
+chatbot it knows far more than you do in
+
+94
+00:04:37,360 --> 00:04:39,360
+your 100 trillion connections which
+
+95
+00:04:39,360 --> 00:04:41,479
+suggests it's got a much better way of
+
+96
+00:04:41,479 --> 00:04:43,479
+getting knowledge into those connections
+
+97
+00:04:43,479 --> 00:04:46,039
+a much better way of getting knowledge
+
+98
+00:04:46,039 --> 00:04:48,960
+that isn't fully understood we have a
+
+99
+00:04:48,960 --> 00:04:50,360
+very good idea of sort of roughly what
+
+100
+00:04:50,360 --> 00:04:53,080
+it's doing but as soon as it gets really
+
+101
+00:04:53,080 --> 00:04:55,440
+complicated we don't actually know
+
+102
+00:04:55,440 --> 00:04:56,919
+what's going on anymore than we know
+
+103
+00:04:56,919 --> 00:04:58,880
+what's going on in your brain what do
+
+104
+00:04:58,880 --> 00:05:01,400
+you mean we don't know exactly how it
+
+105
+00:05:01,400 --> 00:05:05,039
+works it was designed by people no it
+
+106
+00:05:05,039 --> 00:05:07,759
+wasn't what we did was we designed the
+
+107
+00:05:07,759 --> 00:05:09,759
+learning algorithm that's a bit like
+
+108
+00:05:09,759 --> 00:05:11,960
+designing the principle of evolution but
+
+109
+00:05:11,960 --> 00:05:13,320
+when this learning algorithm then
+
+110
+00:05:13,320 --> 00:05:16,199
+interacts with data it produces
+
+111
+00:05:16,199 --> 00:05:17,720
+complicated neural networks that are
+
+112
+00:05:17,720 --> 00:05:20,319
+good at doing things but we don't really
+
+113
+00:05:20,319 --> 00:05:22,120
+understand exactly how they do those
+
+114
+00:05:22,120 --> 00:05:24,800
+things what are the
+
+115
+00:05:24,800 --> 00:05:27,199
+implications of these systems
+
+116
+00:05:27,199 --> 00:05:29,560
+autonomously writing their own computer
+
+117
+00:05:29,560 --> 00:05:31,720
+code and executing their own computer
+
+118
+00:05:31,720 --> 00:05:35,319
+code that's a serious worry right so one
+
+119
+00:05:35,319 --> 00:05:37,199
+of the ways in which these systems might
+
+120
+00:05:37,199 --> 00:05:40,880
+Escape control is by writing their own
+
+121
+00:05:40,880 --> 00:05:42,960
+computer code to modify
+
+122
+00:05:42,960 --> 00:05:45,319
+themselves and that's something we need
+
+123
+00:05:45,319 --> 00:05:47,639
+to seriously worry about what do you say
+
+124
+00:05:47,639 --> 00:05:50,039
+to someone who might argue if the
+
+125
+00:05:50,039 --> 00:05:52,880
+systems become benevolent just turn them
+
+126
+00:05:52,880 --> 00:05:55,680
+off they will be able to manipulate
+
+127
+00:05:55,680 --> 00:05:58,160
+people right and these will be very good
+
+128
+00:05:58,160 --> 00:06:00,080
+at convincing people because they'll
+
+129
+00:06:00,080 --> 00:06:02,280
+have learned from all the novels that
+
+130
+00:06:02,280 --> 00:06:05,599
+were ever written all the books by
+
+131
+00:06:05,599 --> 00:06:08,960
+makavelli all the political connives
+
+132
+00:06:08,960 --> 00:06:10,560
+they'll know all that stuff they'll know
+
+133
+00:06:10,560 --> 00:06:14,680
+how to do it knoow of the human kind
+
+134
+00:06:14,680 --> 00:06:18,080
+runs in Jeffrey hinton's family his
+
+135
+00:06:18,080 --> 00:06:20,479
+ancestors include mathematician George
+
+136
+00:06:20,479 --> 00:06:24,319
+buou who invented the basis of computing
+
+137
+00:06:24,319 --> 00:06:28,120
+and George Everest who surveyed India
+
+138
+00:06:28,120 --> 00:06:31,400
+and got that mountain named after him
+
+139
+00:06:31,400 --> 00:06:35,199
+but as a boy Hinton himself could never
+
+140
+00:06:35,199 --> 00:06:38,759
+climb the peak of expectations raised by
+
+141
+00:06:38,759 --> 00:06:41,520
+a domineering father every morning when
+
+142
+00:06:41,520 --> 00:06:44,039
+I went to school he'd actually say to me
+
+143
+00:06:44,039 --> 00:06:45,560
+as I walked down the driveway get in
+
+144
+00:06:45,560 --> 00:06:47,599
+their pitching and maybe when you're
+
+145
+00:06:47,599 --> 00:06:49,280
+twice as old as me you'll be half as
+
+146
+00:06:49,280 --> 00:06:53,680
+good dad was an authority on Beatles he
+
+147
+00:06:53,680 --> 00:06:55,080
+knew a lot more about beatles than he
+
+148
+00:06:55,080 --> 00:06:57,199
+knew about people did you feel that as a
+
+149
+00:06:57,199 --> 00:07:00,240
+child a bit yes
+
+150
+00:07:00,240 --> 00:07:03,639
+when he died we went to his study at the
+
+151
+00:07:03,639 --> 00:07:06,199
+University and the walls were lined with
+
+152
+00:07:06,199 --> 00:07:08,599
+boxes of papers on different kinds of
+
+153
+00:07:08,599 --> 00:07:11,000
+beetle and just near the door there was
+
+154
+00:07:11,000 --> 00:07:13,919
+a slightly smaller box that simply said
+
+155
+00:07:13,919 --> 00:07:16,479
+not insects and that's where he had all
+
+156
+00:07:16,479 --> 00:07:17,919
+the things about the
+
+157
+00:07:17,919 --> 00:07:21,879
+family today at 75 Hinton recently
+
+158
+00:07:21,879 --> 00:07:24,560
+retired after what he calls 10 happy
+
+159
+00:07:24,560 --> 00:07:27,479
+years at Google now he's professor
+
+160
+00:07:27,479 --> 00:07:30,319
+ameritus at the University of Toronto
+
+161
+00:07:30,319 --> 00:07:33,240
+and he happened to mention he has more
+
+162
+00:07:33,240 --> 00:07:36,800
+academic citations than his father some
+
+163
+00:07:36,800 --> 00:07:39,319
+of his research led to chatbots like
+
+164
+00:07:39,319 --> 00:07:42,879
+Google's Bard which we met last spring
+
+165
+00:07:42,879 --> 00:07:45,440
+confounding absolutely confounding we
+
+166
+00:07:45,440 --> 00:07:48,479
+asked Bard to write a story from six
+
+167
+00:07:48,479 --> 00:07:52,360
+words for sale baby shoes never
+
+168
+00:07:52,360 --> 00:07:57,039
+worn holy cow the shoes were a gift from
+
+169
+00:07:57,039 --> 00:08:00,240
+my wife but we never had a baby Bard
+
+170
+00:08:00,240 --> 00:08:03,159
+created a deeply human tale of a man
+
+171
+00:08:03,159 --> 00:08:05,840
+whose wife could not conceive and a
+
+172
+00:08:05,840 --> 00:08:08,960
+stranger who accepted the shoes to heal
+
+173
+00:08:08,960 --> 00:08:12,039
+the pain after her miscarriage I am
+
+174
+00:08:12,039 --> 00:08:14,199
+rarely
+
+175
+00:08:14,199 --> 00:08:16,720
+speechless I don't know what to make of
+
+176
+00:08:16,720 --> 00:08:19,680
+this chatbots are said to be language
+
+177
+00:08:19,680 --> 00:08:22,560
+models that just predict the next most
+
+178
+00:08:22,560 --> 00:08:25,280
+likely word based on probability you'll
+
+179
+00:08:25,280 --> 00:08:27,440
+hear people saying things like they're
+
+180
+00:08:27,440 --> 00:08:28,759
+just doing autocomplete they're just
+
+181
+00:08:28,759 --> 00:08:31,280
+trying to pred the next word and they're
+
+182
+00:08:31,280 --> 00:08:32,800
+just using
+
+183
+00:08:32,800 --> 00:08:35,200
+statistics well it's true they're just
+
+184
+00:08:35,200 --> 00:08:37,360
+trying to predict the next word but if
+
+185
+00:08:37,360 --> 00:08:39,200
+you think about it to predict the next
+
+186
+00:08:39,200 --> 00:08:43,240
+word you have to understand the
+
+187
+00:08:43,240 --> 00:08:45,320
+sentences so the idea they just
+
+188
+00:08:45,320 --> 00:08:46,560
+predicting the next word so they're not
+
+189
+00:08:46,560 --> 00:08:48,640
+intelligent is crazy you have to be
+
+190
+00:08:48,640 --> 00:08:50,600
+really intelligent to predict the next
+
+191
+00:08:50,600 --> 00:08:53,399
+word really accurately to prove it
+
+192
+00:08:53,399 --> 00:08:56,320
+Hinton showed us a test he devised for
+
+193
+00:08:56,320 --> 00:08:57,440
+chat
+
+194
+00:08:57,440 --> 00:09:00,320
+gp4 the chatbot from a company called
+
+195
+00:09:00,320 --> 00:09:04,160
+open AI it was sort of reassuring to see
+
+196
+00:09:04,160 --> 00:09:07,560
+a turing Award winner mistype and blame
+
+197
+00:09:07,560 --> 00:09:10,440
+the computer oh damn this thing we're
+
+198
+00:09:10,440 --> 00:09:12,040
+going to go back and start again that's
+
+199
+00:09:12,040 --> 00:09:15,279
+okay hinton's test was a riddle about
+
+200
+00:09:15,279 --> 00:09:18,240
+house painting an answer would demand
+
+201
+00:09:18,240 --> 00:09:19,920
+reasoning and
+
+202
+00:09:19,920 --> 00:09:24,079
+planning this is what he typed into chat
+
+203
+00:09:24,079 --> 00:09:27,440
+gp4 the rooms in my house are painted
+
+204
+00:09:27,440 --> 00:09:30,079
+white or blue or yellow and yellow paint
+
+205
+00:09:30,079 --> 00:09:32,519
+Fades to White within a year in two
+
+206
+00:09:32,519 --> 00:09:34,279
+years time I'd like all the rooms to be
+
+207
+00:09:34,279 --> 00:09:37,399
+white what should I do the answer began
+
+208
+00:09:37,399 --> 00:09:41,959
+in one second gp4 advised the rooms
+
+209
+00:09:41,959 --> 00:09:45,480
+painted in blue need to be repainted the
+
+210
+00:09:45,480 --> 00:09:48,360
+rooms painted in yellow don't need to be
+
+211
+00:09:48,360 --> 00:09:50,680
+repainted because they would Fade to
+
+212
+00:09:50,680 --> 00:09:55,160
+White before the deadline and oh I
+
+213
+00:09:55,160 --> 00:09:58,200
+didn't even think of that it warned if
+
+214
+00:09:58,200 --> 00:10:00,720
+you paint the yellow rooms white there's
+
+215
+00:10:00,720 --> 00:10:03,279
+a risk the color might be off when the
+
+216
+00:10:03,279 --> 00:10:07,279
+yellow Fades besides it advised you'd be
+
+217
+00:10:07,279 --> 00:10:09,920
+wasting resources painting rooms that
+
+218
+00:10:09,920 --> 00:10:12,480
+were going to Fade to White anyway you
+
+219
+00:10:12,480 --> 00:10:14,839
+believe that chat GPD
+
+220
+00:10:14,839 --> 00:10:18,760
+4 understands I believe it definitely
+
+221
+00:10:18,760 --> 00:10:21,680
+understands yes and in five years time I
+
+222
+00:10:21,680 --> 00:10:23,440
+think in 5 years time it may well be
+
+223
+00:10:23,440 --> 00:10:26,040
+able to reason better than us reasoning
+
+224
+00:10:26,040 --> 00:10:30,360
+that he says is leading to ai's risks
+
+225
+00:10:30,360 --> 00:10:31,839
+and great
+
+226
+00:10:31,839 --> 00:10:34,640
+benefits so an obvious area where
+
+227
+00:10:34,640 --> 00:10:38,560
+there's huge benefits is Healthcare AI
+
+228
+00:10:38,560 --> 00:10:40,800
+is already comparable with Radiologists
+
+229
+00:10:40,800 --> 00:10:42,279
+at understanding what's going on in
+
+230
+00:10:42,279 --> 00:10:43,279
+medical
+
+231
+00:10:43,279 --> 00:10:45,240
+images it's going to be very good at
+
+232
+00:10:45,240 --> 00:10:47,240
+designing drugs it already is designing
+
+233
+00:10:47,240 --> 00:10:51,320
+drugs so that's an area where it's
+
+234
+00:10:51,320 --> 00:10:54,399
+almost entirely going to do good I like
+
+235
+00:10:54,399 --> 00:10:57,040
+that area the risks are
+
+236
+00:10:57,040 --> 00:11:00,279
+what well the risks are having a whole
+
+237
+00:11:00,279 --> 00:11:02,200
+class of people who are
+
+238
+00:11:02,200 --> 00:11:05,079
+unemployed and not valued much because
+
+239
+00:11:05,079 --> 00:11:07,240
+what they what they used to do is now
+
+240
+00:11:07,240 --> 00:11:10,399
+done by machines other immediate risks
+
+241
+00:11:10,399 --> 00:11:13,720
+he worries about include fake news
+
+242
+00:11:13,720 --> 00:11:16,959
+unintended bias in employment and
+
+243
+00:11:16,959 --> 00:11:21,560
+policing and autonomous Battlefield
+
+244
+00:11:21,560 --> 00:11:25,320
+robots what is a path forward that
+
+245
+00:11:25,320 --> 00:11:26,720
+ensures
+
+246
+00:11:26,720 --> 00:11:30,120
+safety I don't know I I can't see a path
+
+247
+00:11:30,120 --> 00:11:31,920
+that guarantees
+
+248
+00:11:31,920 --> 00:11:34,360
+safety that we're entering a period of
+
+249
+00:11:34,360 --> 00:11:35,800
+great uncertainty where we're dealing
+
+250
+00:11:35,800 --> 00:11:37,839
+with things we've never dealt with
+
+251
+00:11:37,839 --> 00:11:40,120
+before and normally the first time you
+
+252
+00:11:40,120 --> 00:11:41,560
+deal with something totally novel you
+
+253
+00:11:41,560 --> 00:11:43,639
+get it wrong and we can't afford to get
+
+254
+00:11:43,639 --> 00:11:45,360
+it wrong with these things can't afford
+
+255
+00:11:45,360 --> 00:11:47,800
+to get it wrong why well because they
+
+256
+00:11:47,800 --> 00:11:51,240
+might take over take over from Humanity
+
+257
+00:11:51,240 --> 00:11:53,079
+yes that's a possibility why would they
+
+258
+00:11:53,079 --> 00:11:55,720
+saying it will happen if we could stop
+
+259
+00:11:55,720 --> 00:11:57,959
+them ever wanting to that would be great
+
+260
+00:11:57,959 --> 00:11:59,839
+but it's not clear we can stop them ever
+
+261
+00:11:59,839 --> 00:12:00,839
+wanting
+
+262
+00:12:00,839 --> 00:12:04,320
+to Jeffrey Hinton told us he has no
+
+263
+00:12:04,320 --> 00:12:07,800
+regrets because of ai's potential for
+
+264
+00:12:07,800 --> 00:12:11,560
+good but he says now is the moment to
+
+265
+00:12:11,560 --> 00:12:14,959
+run experiments to understand AI for
+
+266
+00:12:14,959 --> 00:12:17,880
+governments to impose regulations and
+
+267
+00:12:17,880 --> 00:12:21,160
+for a world treaty to ban the use of
+
+268
+00:12:21,160 --> 00:12:25,279
+military robots he reminded us of Robert
+
+269
+00:12:25,279 --> 00:12:27,959
+Oppenheimer who after inventing the
+
+270
+00:12:27,959 --> 00:12:30,680
+atomic bomb campaigned against the
+
+271
+00:12:30,680 --> 00:12:33,760
+hydrogen bomb a man who changed the
+
+272
+00:12:33,760 --> 00:12:37,399
+world and found the world Beyond his
+
+273
+00:12:37,399 --> 00:12:39,880
+control it maybe we look back and see
+
+274
+00:12:39,880 --> 00:12:42,279
+this as a kind of Turning Point when
+
+275
+00:12:42,279 --> 00:12:43,839
+Humanity had to make the decision about
+
+276
+00:12:43,839 --> 00:12:46,160
+whether to develop these things further
+
+277
+00:12:46,160 --> 00:12:48,120
+and what to do to protect themselves if
+
+278
+00:12:48,120 --> 00:12:52,160
+they did um I don't know I think my main
+
+279
+00:12:52,160 --> 00:12:55,079
+message is there's enormous uncertainty
+
+280
+00:12:55,079 --> 00:12:57,199
+about what's going to happen
+
+281
+00:12:57,199 --> 00:12:59,360
+next these things do
+
+282
+00:12:59,360 --> 00:13:02,760
+understand and because they understand
+
+283
+00:13:02,760 --> 00:13:04,079
+we need to think hard about what's going
+
+284
+00:13:04,079 --> 00:13:10,880
+to happen next and we just don't
+
+285
+00:13:10,880 --> 00:13:13,880
+know
