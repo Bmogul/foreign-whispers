@@ -1,0 +1,791 @@
+1
+00:00:00,000 --> 00:00:07,580
+ Whether you think artificial intelligence will save the world or end it, you have Jeffrey
+
+2
+00:00:07,580 --> 00:00:09,580
+ Hinton to thank.
+
+3
+00:00:09,580 --> 00:00:16,460
+ Hinton has been called the Godfather of AI, a British computer scientist whose controversial
+
+4
+00:00:16,460 --> 00:00:24,100
+ ideas help make advanced artificial intelligence possible, and so change the world.
+
+5
+00:00:24,100 --> 00:00:30,020
+ Hinton believes that AI will do enormous good, but tonight he has a warning.
+
+6
+00:00:30,020 --> 00:00:36,840
+ He says that AI systems may be more intelligent than we know, and there's a chance the machines
+
+7
+00:00:36,840 --> 00:00:42,800
+ could take over, which made us ask the question.
+
+8
+00:00:42,800 --> 00:00:48,400
+ The story will continue in a moment.
+
+9
+00:00:48,400 --> 00:00:51,000
+ Does humanity know what it's doing?
+
+10
+00:00:51,000 --> 00:00:54,600
+ No.
+
+11
+00:00:54,600 --> 00:01:02,120
+ I think we're moving into a period when for the first time ever we may have things more
+
+12
+00:01:02,120 --> 00:01:04,239
+ intelligent than us.
+
+13
+00:01:04,239 --> 00:01:05,840
+ You believe they can understand?
+
+14
+00:01:05,840 --> 00:01:06,840
+ Yes.
+
+15
+00:01:06,840 --> 00:01:09,120
+ You believe they are intelligent?
+
+16
+00:01:09,120 --> 00:01:10,120
+ Yes.
+
+17
+00:01:10,120 --> 00:01:16,240
+ You believe these systems have experiences of their own and can make decisions based on
+
+18
+00:01:16,240 --> 00:01:17,880
+ those experiences.
+
+19
+00:01:17,880 --> 00:01:20,440
+ In the same sense as people do, yes.
+
+20
+00:01:20,440 --> 00:01:21,839
+ Are they conscious?
+
+21
+00:01:21,839 --> 00:01:24,960
+ I think they probably don't have much self-awareness at present.
+
+22
+00:01:24,960 --> 00:01:26,880
+ So in that sense, I don't think they're conscious.
+
+23
+00:01:26,880 --> 00:01:28,679
+ Will they have self-awareness?
+
+24
+00:01:28,679 --> 00:01:29,679
+ Oh, yes.
+
+25
+00:01:29,679 --> 00:01:32,320
+ I think they're willing time.
+
+26
+00:01:32,320 --> 00:01:38,440
+ And so human beings will be the second most intelligent beings on the planet.
+
+27
+00:01:38,440 --> 00:01:40,440
+ Yeah.
+
+28
+00:01:40,440 --> 00:01:47,199
+ Jeffrey Hinton told us the artificial intelligence he said in motion was an accident born of
+
+29
+00:01:47,200 --> 00:01:48,800
+ a failure.
+
+30
+00:01:48,800 --> 00:01:55,680
+ In the 1970s at the University of Edinburgh, he dreamed of simulating a neural network on
+
+31
+00:01:55,680 --> 00:01:57,240
+ a computer.
+
+32
+00:01:57,240 --> 00:02:02,720
+ Simply as a tool for what he was really studying, the human brain.
+
+33
+00:02:02,720 --> 00:02:06,760
+ But back then almost no one thought software could mimic the brain.
+
+34
+00:02:06,760 --> 00:02:12,480
+ His PhD advisor told him to drop it before it ruined his career.
+
+35
+00:02:12,480 --> 00:02:19,079
+ Hinton says he failed to figure out the human mind, but the long pursuit led to an artificial
+
+36
+00:02:19,079 --> 00:02:20,880
+ version.
+
+37
+00:02:20,880 --> 00:02:23,000
+ It took much, much longer than I expected.
+
+38
+00:02:23,000 --> 00:02:25,359
+ It took like 50 years before it worked well.
+
+39
+00:02:25,359 --> 00:02:27,519
+ But in the end it did work well.
+
+40
+00:02:27,519 --> 00:02:35,440
+ At what point did you realize that you were right about neural networks and most everyone
+
+41
+00:02:35,440 --> 00:02:36,959
+ else was wrong?
+
+42
+00:02:36,959 --> 00:02:39,799
+ I always thought I was right.
+
+43
+00:02:39,800 --> 00:02:47,760
+ In 2019, Hinton and collaborators Jan LeCoon on the left and Joshua Bengeo won the Turing
+
+44
+00:02:47,760 --> 00:02:52,080
+ Award, the Nobel Prize of Computing.
+
+45
+00:02:52,080 --> 00:02:57,520
+ To understand how their work on artificial neural networks helped machines learn to
+
+46
+00:02:57,520 --> 00:03:00,920
+ learn, let us take you to a game.
+
+47
+00:03:00,920 --> 00:03:02,880
+ Look at that.
+
+48
+00:03:02,880 --> 00:03:05,400
+ Oh my goodness.
+
+49
+00:03:05,400 --> 00:03:11,760
+ This is Google's AI Lab in London, which we first showed you this past April.
+
+50
+00:03:11,760 --> 00:03:17,700
+ Jeffrey Hinton wasn't involved in this soccer project, but these robots are a great example
+
+51
+00:03:17,700 --> 00:03:19,760
+ of machine learning.
+
+52
+00:03:19,760 --> 00:03:26,320
+ The thing to understand is that the robots were not programmed to play soccer.
+
+53
+00:03:26,320 --> 00:03:28,480
+ They were told to score.
+
+54
+00:03:28,480 --> 00:03:33,600
+ They had to learn how on their own.
+
+55
+00:03:33,600 --> 00:03:36,359
+ In general, here's how AI does it.
+
+56
+00:03:36,359 --> 00:03:42,600
+ Hinton and his collaborators created software in layers with each layer handling part of
+
+57
+00:03:42,600 --> 00:03:43,600
+ the problem.
+
+58
+00:03:43,600 --> 00:03:45,720
+ That's the so-called neural network.
+
+59
+00:03:45,720 --> 00:03:47,440
+ But this is the key.
+
+60
+00:03:47,440 --> 00:03:54,040
+ When, for example, the robot scores, a message is sent back down through all of the layers
+
+61
+00:03:54,040 --> 00:03:57,840
+ that says that pathway was right.
+
+62
+00:03:57,840 --> 00:04:03,320
+ Likewise, when an answer is wrong, that message goes down through the network.
+
+63
+00:04:03,320 --> 00:04:10,480
+ So correct connections get stronger, wrong connections get weaker, and by trial and error,
+
+64
+00:04:10,480 --> 00:04:13,040
+ the machine teaches itself.
+
+65
+00:04:13,040 --> 00:04:18,200
+ You think these AI systems are better at learning than the human mind?
+
+66
+00:04:18,200 --> 00:04:20,440
+ I think they may be, yes.
+
+67
+00:04:20,440 --> 00:04:23,520
+ And present, they're quite a lot smaller.
+
+68
+00:04:23,520 --> 00:04:28,800
+ So even the biggest chatbots only have about a trillion connections in them.
+
+69
+00:04:28,800 --> 00:04:30,920
+ The human brain has about a hundred trillion.
+
+70
+00:04:30,920 --> 00:04:37,600
+ And yet, in the trillion connections in a chatbot, it knows far more than you do in your
+
+71
+00:04:37,600 --> 00:04:42,120
+ hundred trillion connections, which suggests it's got a much better way of getting knowledge
+
+72
+00:04:42,120 --> 00:04:43,520
+ into those connections.
+
+73
+00:04:43,520 --> 00:04:48,760
+ A much better way of getting knowledge that isn't fully understood.
+
+74
+00:04:48,760 --> 00:04:51,800
+ We have a very good idea of roughly what it's doing.
+
+75
+00:04:51,800 --> 00:04:56,360
+ But as soon as it gets really complicated, we don't actually know what's going on any
+
+76
+00:04:56,360 --> 00:04:58,880
+ more than we know what's going on in your brain.
+
+77
+00:04:58,880 --> 00:05:02,120
+ What do you mean we don't know exactly how it works?
+
+78
+00:05:02,120 --> 00:05:04,200
+ It was designed by people.
+
+79
+00:05:04,200 --> 00:05:06,200
+ No, it wasn't.
+
+80
+00:05:06,200 --> 00:05:09,280
+ What we did was we designed the learning algorithm.
+
+81
+00:05:09,280 --> 00:05:11,960
+ That's a bit like designing the principle of evolution.
+
+82
+00:05:11,960 --> 00:05:17,040
+ But when this learning algorithm then interacts with data, it produces complicated neural
+
+83
+00:05:17,040 --> 00:05:21,280
+ networks that are good at doing things, but we don't really understand exactly how they
+
+84
+00:05:21,280 --> 00:05:23,280
+ do those things.
+
+85
+00:05:23,280 --> 00:05:30,880
+ What are the implications of these systems autonomously writing their own computer code and executing
+
+86
+00:05:30,880 --> 00:05:32,880
+ their own computer code?
+
+87
+00:05:32,880 --> 00:05:34,960
+ That's a serious worry, right?
+
+88
+00:05:34,960 --> 00:05:40,960
+ So one of the ways in which these systems might escape control is by writing their own
+
+89
+00:05:40,960 --> 00:05:44,200
+ computer code to modify themselves.
+
+90
+00:05:44,200 --> 00:05:47,359
+ And that's something we need to seriously worry about.
+
+91
+00:05:47,359 --> 00:05:52,679
+ What do you say to someone who might argue if the systems become benevolent, just turn
+
+92
+00:05:52,680 --> 00:05:53,680
+ them off?
+
+93
+00:05:53,680 --> 00:05:56,960
+ They will be able to manipulate people, right?
+
+94
+00:05:56,960 --> 00:06:01,560
+ And these will be very good at convincing people because they'll have learned from all
+
+95
+00:06:01,560 --> 00:06:09,160
+ the novels that were ever written, all the books by Machiavelli, all the political canivances,
+
+96
+00:06:09,160 --> 00:06:12,280
+ they'll know all that stuff, they'll know how to do it.
+
+97
+00:06:12,280 --> 00:06:18,000
+ Know how of the humankind runs in Jeffrey Hinton's family.
+
+98
+00:06:18,000 --> 00:06:24,600
+ His ancestors include mathematician George Bull who invented the basis of computing and
+
+99
+00:06:24,600 --> 00:06:31,640
+ George Everest, who surveyed India and got that mountain named after him.
+
+100
+00:06:31,640 --> 00:06:39,680
+ But as a boy, Hinton himself could never climb the peak of expectations raised by a domineering
+
+101
+00:06:39,680 --> 00:06:41,080
+ father.
+
+102
+00:06:41,080 --> 00:06:45,440
+ Every morning when I went to school, he'd actually say to me as I walked down the driveway,
+
+103
+00:06:45,440 --> 00:06:50,640
+ get in there, pitch in, and maybe when you're twice as old as me, you'll be half as good.
+
+104
+00:06:50,640 --> 00:06:53,040
+ Dad was an authority on beetles.
+
+105
+00:06:53,040 --> 00:06:56,360
+ He knew a lot more about beetles than he knew about people.
+
+106
+00:06:56,360 --> 00:06:57,960
+ Did you feel that as a child?
+
+107
+00:06:57,960 --> 00:07:00,440
+ A bit, yes.
+
+108
+00:07:00,440 --> 00:07:07,440
+ When he died, we went to his study at the university, and the walls were lined with boxes of papers
+
+109
+00:07:07,440 --> 00:07:09,800
+ on different kinds of beetle.
+
+110
+00:07:09,800 --> 00:07:15,800
+ And just near the door, there was a slightly smaller box that simply said not insects.
+
+111
+00:07:15,800 --> 00:07:19,120
+ And that's where he had all the things about the family.
+
+112
+00:07:19,120 --> 00:07:26,400
+ Today at 75, Hinton recently retired after what he calls 10 Happy Years at Google.
+
+113
+00:07:26,400 --> 00:07:32,640
+ Now he's Professor Emeritus at the University of Toronto, and he happened to mention he
+
+114
+00:07:32,640 --> 00:07:36,640
+ has more academic citations than his father.
+
+115
+00:07:36,640 --> 00:07:42,880
+ Some of his research led to chatbots like Google's Bard, which we met last spring.
+
+116
+00:07:42,880 --> 00:07:45,360
+ Confounding, absolutely confounding.
+
+117
+00:07:45,360 --> 00:07:49,599
+ We asked Bard to write a story from six words.
+
+118
+00:07:49,599 --> 00:07:53,240
+ For sale, baby shoes never worn.
+
+119
+00:07:53,240 --> 00:07:55,760
+ Holy cow.
+
+120
+00:07:55,760 --> 00:08:00,120
+ The shoes were a gift from my wife, but we never had a baby.
+
+121
+00:08:00,120 --> 00:08:06,400
+ Bard created a deeply human tale of a man whose wife could not conceive and a stranger
+
+122
+00:08:06,400 --> 00:08:11,640
+ who accepted the shoes to heal the pain after her miscarriage.
+
+123
+00:08:11,640 --> 00:08:15,239
+ I am rarely speechless.
+
+124
+00:08:15,239 --> 00:08:17,440
+ I don't know what to make of this.
+
+125
+00:08:17,440 --> 00:08:23,840
+ Chatbots are said to be language models that just predict the next most likely word based
+
+126
+00:08:23,840 --> 00:08:24,840
+ on probability.
+
+127
+00:08:24,840 --> 00:08:28,679
+ You'll hear people saying things like they're just doing auto-complete.
+
+128
+00:08:28,679 --> 00:08:31,200
+ They're just trying to predict the next word.
+
+129
+00:08:31,200 --> 00:08:33,199
+ And they're just using statistics.
+
+130
+00:08:33,200 --> 00:08:37,320
+ Well, it's true they're just trying to predict the next word.
+
+131
+00:08:37,320 --> 00:08:44,480
+ But if you think about it, to predict the next word, you have to understand the sentences.
+
+132
+00:08:44,480 --> 00:08:48,120
+ So the idea they're just predicting the next word so they're not intelligent is crazy.
+
+133
+00:08:48,120 --> 00:08:52,560
+ You have to be really intelligent to predict the next word really accurately.
+
+134
+00:08:52,560 --> 00:08:59,960
+ To prove it, Hinton showed us a test he devised for chat GPT4, the chatbot from a company
+
+135
+00:08:59,960 --> 00:09:02,160
+ called OpenAI.
+
+136
+00:09:02,160 --> 00:09:08,280
+ That was sort of reassuring to see a touring award winner mistype and blame the computer.
+
+137
+00:09:08,280 --> 00:09:10,520
+ Oh, damn this thing.
+
+138
+00:09:10,520 --> 00:09:11,920
+ We're going to go back and start again.
+
+139
+00:09:11,920 --> 00:09:12,920
+ That's OK.
+
+140
+00:09:12,920 --> 00:09:16,719
+ Hinton's test was a riddle about house painting.
+
+141
+00:09:16,719 --> 00:09:21,120
+ An answer would demand reasoning and planning.
+
+142
+00:09:21,120 --> 00:09:25,319
+ This is what he typed into chat GPT4.
+
+143
+00:09:25,319 --> 00:09:29,560
+ The rooms in my house are painted white or blue or yellow.
+
+144
+00:09:29,560 --> 00:09:32,319
+ And yellow paint fades to white within a year.
+
+145
+00:09:32,319 --> 00:09:35,199
+ In two years' time, I'd like all the rooms to be white.
+
+146
+00:09:35,199 --> 00:09:36,479
+ What should I do?
+
+147
+00:09:36,479 --> 00:09:39,479
+ The answer began in one second.
+
+148
+00:09:39,479 --> 00:09:45,520
+ GPT4 advised the rooms painted in blue need to be repainted.
+
+149
+00:09:45,520 --> 00:09:51,040
+ The rooms painted in yellow don't need to be repainted because they would fade to white
+
+150
+00:09:51,040 --> 00:09:53,239
+ before the deadline.
+
+151
+00:09:53,239 --> 00:09:54,239
+ And...
+
+152
+00:09:54,239 --> 00:09:57,199
+ Oh, I didn't even think of that.
+
+153
+00:09:57,200 --> 00:10:03,160
+ But warned, if you paint the yellow rooms white, there's a risk the color might be off when
+
+154
+00:10:03,160 --> 00:10:05,120
+ the yellow fades.
+
+155
+00:10:05,120 --> 00:10:10,880
+ Besides, it advised you'd be wasting resources, painting rooms that were going to fade to
+
+156
+00:10:10,880 --> 00:10:12,440
+ white anyway.
+
+157
+00:10:12,440 --> 00:10:16,560
+ You believe that chat GPT4 understands.
+
+158
+00:10:16,560 --> 00:10:19,520
+ I believe it definitely understands, yes.
+
+159
+00:10:19,520 --> 00:10:21,480
+ And in five years' time?
+
+160
+00:10:21,480 --> 00:10:25,640
+ I think in five years' time, it may well be able to reason better than us.
+
+161
+00:10:25,640 --> 00:10:32,880
+ Reasoning that he says is leading to AI's great risks and great benefits.
+
+162
+00:10:32,880 --> 00:10:40,000
+ So an obvious area where this huge benefits is healthcare, AI is already comparable with
+
+163
+00:10:40,000 --> 00:10:44,520
+ radiologists at understanding what's going on in medical images.
+
+164
+00:10:44,520 --> 00:10:46,240
+ It's going to be very good at designing drugs.
+
+165
+00:10:46,240 --> 00:10:48,319
+ It already is designing drugs.
+
+166
+00:10:48,319 --> 00:10:54,160
+ So that's an area where it's almost entirely going to do good.
+
+167
+00:10:54,160 --> 00:10:55,520
+ I like that area.
+
+168
+00:10:55,520 --> 00:10:58,280
+ The risks are what?
+
+169
+00:10:58,280 --> 00:11:04,280
+ Well, the risks are having a whole class of people who are unemployed and not valued
+
+170
+00:11:04,280 --> 00:11:09,000
+ much because what they...what they used to do is now done by machines.
+
+171
+00:11:09,000 --> 00:11:16,480
+ Other immediate risks he worries about include fake news, unintended bias in employment
+
+172
+00:11:16,480 --> 00:11:22,760
+ and policing, and autonomous battlefield robots.
+
+173
+00:11:22,760 --> 00:11:27,760
+ What is a path forward that ensures safety?
+
+174
+00:11:27,760 --> 00:11:28,840
+ I don't know.
+
+175
+00:11:28,840 --> 00:11:33,200
+ I can't see a path that guarantees safety.
+
+176
+00:11:33,200 --> 00:11:37,200
+ We're entering a period of great uncertainty where we're dealing with things we've never dealt
+
+177
+00:11:37,200 --> 00:11:39,000
+ with before.
+
+178
+00:11:39,000 --> 00:11:42,480
+ And normally the first time you deal with something totally novel, you get it wrong.
+
+179
+00:11:42,480 --> 00:11:44,880
+ And we can't afford to get it wrong with these things.
+
+180
+00:11:44,880 --> 00:11:47,200
+ Can't afford to get it wrong, why?
+
+181
+00:11:47,200 --> 00:11:49,760
+ Well, because they might take over.
+
+182
+00:11:49,760 --> 00:11:51,240
+ Take over from humanity.
+
+183
+00:11:51,240 --> 00:11:52,520
+ Yes, that's a possibility.
+
+184
+00:11:52,520 --> 00:11:55,199
+ I would not say it will happen.
+
+185
+00:11:55,199 --> 00:11:58,160
+ If we could stop them ever wanting to, that would be great.
+
+186
+00:11:58,160 --> 00:12:01,960
+ But it's not clear we can stop them ever wanting to.
+
+187
+00:12:01,960 --> 00:12:08,960
+ Jeffrey Hinton told us he has no regrets because of AI's potential for good.
+
+188
+00:12:08,960 --> 00:12:17,800
+ But he says now is the moment to run experiments to understand AI, for governments to impose regulations,
+
+189
+00:12:17,800 --> 00:12:23,280
+ and for a world treaty to ban the use of military robots.
+
+190
+00:12:23,280 --> 00:12:30,560
+ He reminded us of Robert Oppenheimer, who after inventing the atomic bomb, campaigned against
+
+191
+00:12:30,560 --> 00:12:38,599
+ the hydrogen bomb, a man who changed the world and found the world beyond his control.
+
+192
+00:12:38,599 --> 00:12:43,160
+ It may be we look back and see this as a kind of turning point when she managed to make
+
+193
+00:12:43,160 --> 00:12:46,400
+ the decision about whether to develop these things further.
+
+194
+00:12:46,400 --> 00:12:50,360
+ And what to do to protect themselves if they did.
+
+195
+00:12:50,360 --> 00:12:51,360
+ I don't know.
+
+196
+00:12:51,360 --> 00:12:58,400
+ I think my main message is there's a enormous uncertainty about what's going to happen next.
+
+197
+00:12:58,400 --> 00:13:04,040
+ These things do understand, and because they understand, we need to think hard about what's
+
+198
+00:13:04,040 --> 00:13:05,880
+ going to happen next and we just don't know.
