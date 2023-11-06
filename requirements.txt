@@ -1,3 +1,4 @@
 pytube
 numpy
 pandas
+openai-whisper
